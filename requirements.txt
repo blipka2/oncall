@@ -1,0 +1,2 @@
+atlassian-python-api==3.21.0
+slack_sdk==3.15.2
